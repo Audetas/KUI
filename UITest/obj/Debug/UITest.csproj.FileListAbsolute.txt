@@ -1,0 +1,11 @@
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\UITest\bin\Debug\UITest.exe.config
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\UITest\bin\Debug\UITest.exe
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\UITest\bin\Debug\UITest.pdb
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\UITest\obj\Debug\UITest.csprojResolveAssemblyReference.cache
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\UITest\obj\Debug\UITest.Form1.resources
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\UITest\obj\Debug\UITest.Properties.Resources.resources
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\UITest\obj\Debug\UITest.csproj.GenerateResource.Cache
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\UITest\obj\Debug\UITest.exe
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\UITest\obj\Debug\UITest.pdb
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\UITest\bin\Debug\KUI.dll
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\UITest\bin\Debug\KUI.pdb

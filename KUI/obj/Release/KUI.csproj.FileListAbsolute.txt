@@ -1,0 +1,5 @@
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\KUI\bin\Release\KUI.dll
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\KUI\bin\Release\KUI.pdb
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\KUI\obj\Release\KUI.dll
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\KUI\obj\Release\KUI.pdb
+C:\Users\qwert\OneDrive\Projects\KronkBoxer\KUI\obj\Release\KUI.csprojResolveAssemblyReference.cache
